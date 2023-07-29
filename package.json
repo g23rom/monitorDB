@@ -1,0 +1,20 @@
+{
+  "name": "monitorbd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Roman Grudinin",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "pg": "^8.11.1",
+    "yamljs": "^0.3.0"
+  }
+}
