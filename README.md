@@ -34,17 +34,3 @@ last updates
 2023-03-02 11:11:11 db_first.tb_one
 
 2023-05-02 12:11:11 db_first.tb_two
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------
-%
-rOmiros2307
--------------------
-pgress
-yukkidenty
-testerBD123456
-pg3.sweb.ru
-5432
----test_table
-SELECT * FROM test_table ORDER BY timetest DESC LIMIT 1
